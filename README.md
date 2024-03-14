@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Dhanesh Kumar Goan
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python\SQL\POWER BI\EXCEL
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+ I'm delighted to showcase my first Codebasics Power BI resume project that I've just completed. In this challenge, our task was to craft a dynamic dashboard for the Revenue Management team at Atliq Grand Hotel to provide key insights to the revenue team. I have used Power Query Editor for data cleaning and calculated various measures for better analysis.
 
-<!---
-Kuhu16/Kuhu16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+➡ Business terms:
+
+Occupancy % - Occupancy refers to the total successful bookings compared to the total rooms available (capacity).
+Cancellation % - Calculating the cancellation percentage.
+ADR (Average Daily Rate) - It is the measure of the average paid for rooms sold in a given time period. ADR = Room Revenue / no. of rooms sold.
+RevPAR (Revenue Per Available Rooms) - RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue-generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
+Realization % - It is the successful "checked out" percentage over all bookings made.
+DBRN (Daily Booked Rooms Nights) - This metric tells on average how many rooms are booked for a day considering a time period.
+DSRN (Daily Sellable Room Nights) - This metric tells on average how many rooms are ready to sell for a day considering a time period.
+DURN (Daily Utilized Room Nights) - This metric tells on average how many rooms are successfully utilized by customers for a day considering a time period.
+No Show rate % - Calculating the no-show percentage. ("No show" refers to those customers who neither canceled nor attended their booked rooms).
+🔍 Why Power BI?
+Power BI’s intuitive interface allowed me to transform raw data into actionable insights effortlessly. The drag-and-drop features, slicers, and interactive visuals make it a game-changer for data professionals like us.
