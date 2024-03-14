@@ -13,3 +13,5 @@ DURN (Daily Utilized Room Nights) - This metric tells on average how many rooms 
 No Show rate % - Calculating the no-show percentage. ("No show" refers to those customers who neither canceled nor attended their booked rooms).
 🔍 Why Power BI?
 Power BI’s intuitive interface allowed me to transform raw data into actionable insights effortlessly. The drag-and-drop features, slicers, and interactive visuals make it a game-changer for data professionals like us.
+Key Insights:
+Occupancy and RevPAR are higher on weekends than on weekdays. Luxury hotels generate more revenue than business-class hotels. The Exotica Hotel in Mumbai has received higher ratings and generates more revenue than other hotels. The City Hotel in Delhi, which is also part of the Atliq chain, has the lowest cancellation rate. On the other hand, the Palace Hotel in Delhi has the highest occupancy rate. Additionally, the month of May sees the highest occupancy rate across all the hotels.
